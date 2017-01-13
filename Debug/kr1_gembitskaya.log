@@ -1,0 +1,31 @@
+﻿Построение начато 28.06.2015 10:48:36.
+     1>Проект "D:\универ\ВСРПП\kr1_gembitskaya\kr1_gembitskaya\kr1_gembitskaya.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\kr1_gembitskaya.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\kr1_gembitskaya.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt MainFrm.cpp kr1_gembitskayaView.cpp stdafx.cpp
+         stdafx.cpp
+         kr1_gembitskayaView.cpp
+         MainFrm.cpp
+       ResourceCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\универ\ВСРПП\kr1_gembitskaya\Debug\kr1_gembitskaya.exe" /NOLOGO /MANIFEST /ManifestFile:"Debug\kr1_gembitskaya.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\универ\ВСРПП\kr1_gembitskaya\Debug\kr1_gembitskaya.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\универ\ВСРПП\kr1_gembitskaya\Debug\kr1_gembitskaya.lib" /MACHINE:X86 Debug\kr1_gembitskaya.res
+         Debug\CoolDialog.obj
+         Debug\kr1_gembitskaya.obj
+         Debug\kr1_gembitskayaDoc.obj
+         Debug\kr1_gembitskayaView.obj
+         Debug\MainFrm.obj
+         Debug\stdafx.obj
+         LINK : не найден или не выполнена сборка D:\универ\ВСРПП\kr1_gembitskaya\Debug\kr1_gembitskaya.exe при последней инкрементной компоновке; выполняется полная компоновка
+         kr1_gembitskaya.vcxproj -> D:\универ\ВСРПП\kr1_gembitskaya\Debug\kr1_gembitskaya.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\универ\ВСРПП\kr1_gembitskaya\Debug\kr1_gembitskaya.exe;#1" /manifest Debug\kr1_gembitskaya.exe.intermediate.manifest "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+       FinalizeBuildStatus:
+         Файл "Debug\kr1_gembitskaya.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\kr1_gembitskaya.lastbuildstate".
+     1>Построение проекта "D:\универ\ВСРПП\kr1_gembitskaya\kr1_gembitskaya\kr1_gembitskaya.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:11.79
